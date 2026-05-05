@@ -38,6 +38,9 @@ This project focuses on building robust hate speech detection models using diffe
 - Binary classification dataset
 - Clean and structured
 
+### A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection
+- Relatively Noisy
+
 ---
 
 ## Features & Techniques
@@ -51,23 +54,22 @@ This project focuses on building robust hate speech detection models using diffe
 
 ### Feature Engineering
 - TF-IDF Vectorization
-- Bag of Words (BoW)
-- N-grams
 
 ### Models Used
+- mBERT
+- -mBERT + Class Weights
+- XLM-RoBERTa
 - Logistic Regression
-- Naive Bayes
 - Support Vector Machine (SVM)
-- Deep Learning (if applicable)
 
 ---
 
 ## Model Evaluation
 
 - Accuracy
+- F1 Score (mainly focused)
 - Precision
 - Recall
-- F1 Score
 
 ---
 
