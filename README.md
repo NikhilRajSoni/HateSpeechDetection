@@ -4,7 +4,7 @@ A comprehensive Natural Language Processing (NLP) project for detecting hate spe
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project focuses on building robust hate speech detection models using different datasets and approaches. It explores preprocessing techniques, feature engineering, and model comparisons to classify text into:
 
@@ -14,7 +14,7 @@ This project focuses on building robust hate speech detection models using diffe
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── HateSpeechDeepa.ipynb
 ├── HateXplain.ipynb
@@ -68,7 +68,6 @@ This project focuses on building robust hate speech detection models using diffe
 - Precision
 - Recall
 - F1 Score
-- Confusion Matrix
 
 ---
 
